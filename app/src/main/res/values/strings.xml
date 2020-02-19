@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aud1</string>
+    <string name="btn_submit_label">Submit</string>
+    <string name="str_extra_image_url">StrExtraImageUrl</string>
+    <string name="action_favorite">Set as favourite</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="download_flickr_tag">Download Flickr Images Tag</string>
+</resources>
